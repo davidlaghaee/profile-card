@@ -27,7 +27,7 @@ body{
     height:120px;
     border-radius:50%;
     object-fit:cover;
-    border:4px solid #3498db;
+    border:4px solid red;
 }
 
 .profile-card h2{
